@@ -23,7 +23,7 @@ namespace ConsoleApp1
         {
             int[] sides = new int[] { a, b, c };
             Array.Sort(sides);
-            if (Math.Abs(Math.Pow(sides[0], 2) + Math.Pow(sides[1], 2) - Math.Pow(sides[3], 2)) < 0.000001) return sides[0] * sides[1] / 2;
+            if (Math.Abs(Math.Pow(sides[0], 2) + Math.Pow(sides[1], 2) - Math.Pow(sides[2], 2)) < 0.000001) return sides[0] * sides[1] / 2;
             double p = (a +b + c) / 2;
             return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
         }

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCmkMNN8AMmTg8TnkuHHZvUdP5uuBXcrq5zmCaxMOuoTYArlb7B5VQmlN2lJ8QgA8DgO6rgZrMqKJ+kVVNHFHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HYPERPC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
