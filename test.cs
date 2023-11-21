@@ -6,7 +6,7 @@ static internal class Program {
 
         if (Math.Abs(Surface.count_surface(3, 4, 5) - 6) <= 0.001) Console.WriteLine("test right triangle passed");
 
-        if (Math.Abs(Surface.count_surface(7, 9, 12) - 31,30495) <= 0.001) Console.WriteLine("test random triangle passed");
+        if (Math.Abs(Surface.count_surface(7, 9, 12) - 31.30495) <= 0.001) Console.WriteLine("test random triangle passed");
     }
 }
 
